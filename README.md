@@ -19,7 +19,7 @@ learning
 
 2.简单的平移、旋转、缩放等不能视为动画播放。
 
-
+```
 SolarSystem/
 ├── src/
 │   ├── core/                  # 公共模块
@@ -81,3 +81,4 @@ SolarSystem/
 ├── CMakeLists.txt             # 项目构建配置
 ├── main.cpp                   # 主程序入口
 └── README.md                  # 项目说明文档
+```
